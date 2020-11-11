@@ -1,0 +1,29 @@
+html {
+    background-color: black;
+    color: cornsilk;
+}
+
+h1 {
+    color: darkviolet;
+    font-family: Pattaya, sans-serif;
+    font-size: 120 px;
+    font-weight: 900;
+}
+
+p {
+    font-size: 48 px;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.violeta {
+    color: rgb(112, 17, 112);
+}
+
+.fucsia {
+    color: rgb(247, 17, 124);
+}
+
+.aqua {
+    color: rgb(11, 192, 247);
+}
